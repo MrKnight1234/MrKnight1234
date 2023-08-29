@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrKnight1234
+- 👋 Hi
 - 👀 I’m interested in Computer Science and Engineering. 
 - 🌱 I’m currently learning/working Tensorflow, Cloud Computing @Azure, Machine Learning regression models, Javascript.
 - 💞️ I’m looking to collaborate on Microsoft events
